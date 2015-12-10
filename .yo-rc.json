@@ -1,0 +1,18 @@
+{
+  "generator-m-ionic": {
+    "answers": {
+      "appName": "ngCordova",
+      "appId": "com.walkingriver.ngcordova",
+      "ionicCss": false,
+      "bowerPackages": [],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "plugins": [
+        "cordova-plugin-device"
+      ],
+      "appModule": "ngCordova"
+    }
+  }
+}
